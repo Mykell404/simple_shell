@@ -159,7 +159,7 @@ $
 
 # Authors & Copyrights
 
-Joak Jeremiah (devjoak@github.com) and Noah Useghan(Unique-red@github.com)
+Mileba Micheal (milebamicheal@gmail.com) and Sobukola Dayo (sobukolaoladayo@gmail.com)
 
 # More information
 
